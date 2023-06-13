@@ -1,0 +1,27 @@
+.container-fluid{
+    background-image: url("../../../assets/background 1.jpg");
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.nav{
+    background: #727942;
+}
+.btn{
+    background: #D0C5A7;
+}
+.options > div{
+    background: #000000B2;
+    color: beige;
+    transition: all .5s ease-in-out;
+    height: 20rem;
+    font-size: 25px;
+    cursor: pointer;
+}
+.options > div:hover{
+    background: black;
+}
+.options{
+    position: relative;
+    top: 20%
+}

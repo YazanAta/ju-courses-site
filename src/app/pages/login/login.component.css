@@ -1,0 +1,22 @@
+.container-fluid{
+    background-image: url("../../../assets/background 1.jpg");
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.title{
+    background-color: #FFFFFFB2;
+    border-radius: 6px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.login-content{
+    background-color: #FFFFFFB2;
+    border-radius: 6px;
+}
+.btn{
+  background-color: #D0C5A7;
+}
+.input-group-text{
+    background-color: #7E8654;
+}
