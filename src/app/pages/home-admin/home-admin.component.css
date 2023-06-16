@@ -15,15 +15,16 @@
 .btn{
     background: #D0C5A7;
 }
-.options > div{
+.options a{
     background: #000000B2;
     color: beige;
     transition: all .5s ease-in-out;
     height: 20rem;
     font-size: 25px;
     cursor: pointer;
+    text-decoration: none;
 }
-.options > div:hover{
+.options > a:hover{
     background: black;
 }
 .options{
